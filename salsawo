@@ -1,0 +1,26 @@
+{
+  
+  "cctv.camera.cctvcamerarecorder": [
+
+    {
+
+      "exit_popup": "0",
+      "tx": "pub-63086-android-2766",
+      "b1": "ca-app-pub-7575908437678224/1250176336",
+      "b2": "ca-app-pub-7575908437678224/3026292432",
+      "i1": "ca-app-pub-7575908437678224/8972807588",
+      "i2": "ca-app-pub-7575908437678224/1713210764",
+      "na1": "ca-app-pub-7575908437678224/8754968121",
+      "na2": "ca-app-pub-7575908437678224/5165424514",
+      "aid": "ca-app-pub-7575908437678224~3876339675",
+      "ao": "ca-app-pub-7575908437678224/7324630097",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+
+    }
+
+  ]
+
+}
