@@ -1,0 +1,20 @@
+{
+  "com.relojappstudio.analogclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61244-android-9116",
+      "b1": "/6499/example/banner",
+      "b2": "/6499/example/banner",
+      "i1": "/6499/example/interstitial",
+      "i2": "/6499/example/interstitial",
+      "na1": "/6499/example/native",
+      "na2": "/6499/example/native",
+      "aid": "ca-app-pub-3940256099942544~3347511713",
+      "ao": "/6499/example/app-open",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ]
+}
