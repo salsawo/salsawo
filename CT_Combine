@@ -44,20 +44,20 @@
     }
 
   ],
-  "pppppppppppppppppppppppppp": [
+  "com.tiempostudioapps.alwaysondisplay.amoledclock.Activitys": [
 
     {
 
       "exit_popup": "100",
-      "tx": "TPXXXXXXXXXXX",
-      "b1": "/6499/example/banner",
-      "b2": "/6499/example/banner",
-      "i1": "/6499/example/interstitial",
-      "i2": "/6499/example/interstitial",
-      "na1": "/6499/example/native",
-      "na2": "/6499/example/native",
-      "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "tx": "pub-66287-android-8085",
+      "b1": "ca-app-pub-7575908437678224/4021440211",
+      "b2": "ca-app-pub-7575908437678224/1012133492",
+      "i1": "ca-app-pub-7575908437678224/6072888482",
+      "i2": "ca-app-pub-7575908437678224/5881316797",
+      "na1": "ca-app-pub-7575908437678224/9628990110",
+      "na2": "ca-app-pub-7575908437678224/4376663435",
+      "aid": "ca-app-pub-7575908437678224~5153137600",
+      "ao": "ca-app-pub-7575908437678224/6811255082",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
       "extra1": "1",
@@ -66,20 +66,20 @@
     }
 
   ],
-  "pppppppppppppppppppppppppp": [
+  "cctv.com.tiempostudioapps.backgroundvideorecorder": [
 
     {
 
       "exit_popup": "100",
-      "tx": "TPXXXXXXXXXXX",
-      "b1": "/6499/example/banner",
-      "b2": "/6499/example/banner",
-      "i1": "/6499/example/interstitial",
-      "i2": "/6499/example/interstitial",
-      "na1": "/6499/example/native",
-      "na2": "/6499/example/native",
-      "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "tx": "pub-66288-android-8342",
+      "b1": "ca-app-pub-7575908437678224/6975192027",
+      "b2": "ca-app-pub-7575908437678224/4349028684",
+      "i1": "ca-app-pub-7575908437678224/1722865343",
+      "i2": "ca-app-pub-7575908437678224/8096702008",
+      "na1": "ca-app-pub-7575908437678224/2844375325",
+      "na2": "ca-app-pub-7575908437678224/7905130312",
+      "aid": "ca-app-pub-7575908437678224~6073173890",
+      "ao": "ca-app-pub-7575908437678224/5278966973",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
       "extra1": "1",
