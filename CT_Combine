@@ -22,20 +22,20 @@
     }
 
   ],
-  "pppppppppppppppppppppppppp": [
+  "translator.climaapps.spanishenglishtranslator": [
 
     {
 
       "exit_popup": "100",
-      "tx": "TPXXXXXXXXXXX",
-      "b1": "/6499/example/banner",
-      "b2": "/6499/example/banner",
-      "i1": "/6499/example/interstitial",
-      "i2": "/6499/example/interstitial",
-      "na1": "/6499/example/native",
-      "na2": "/6499/example/native",
-      "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "tx": "pub-66286-android-7810",
+      "b1": "ca-app-pub-7575908437678224/7717922892",
+      "b2": "ca-app-pub-7575908437678224/1433384445",
+      "i1": "ca-app-pub-7575908437678224/6110996057",
+      "i2": "ca-app-pub-7575908437678224/4797914389",
+      "na1": "ca-app-pub-7575908437678224/9858669372",
+      "na2": "ca-app-pub-7575908437678224/7232506030",
+      "aid": "ca-app-pub-7575908437678224~2008099512",
+      "ao": "ca-app-pub-7575908437678224/3293261026",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
       "extra1": "1",
