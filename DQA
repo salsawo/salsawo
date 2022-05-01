@@ -1,0 +1,38 @@
+{
+  "destinyqualityapps.analogclock.analogclocklivewallpaper": [
+    {
+      "exit_popup": "4",
+      "tx": "pub-66581-android-5824",
+      "b1": "/6499/example/banner",
+      "b2": "/6499/example/banner",
+      "i1": "/6499/example/interstitial",
+      "i2": "/6499/example/interstitial",
+      "na1": "/6499/example/native",
+      "na2": "/6499/example/native",
+      "aid": "ca-app-pub-3940256099942544~3347511713",
+      "ao": "/6499/example/app-open",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+  "destinyqualityapps.analogclock.analogclocklivewallpaper.lv": [
+    {
+      "exit_popup": "100",
+      "tx": "pub-66581-android-5824",
+      "b1": "ca-app-pub-5523798216623915/4507888316",
+      "b2": "ca-app-pub-5523798216623915/3194806649",
+      "i1": "ca-app-pub-5523798216623915/6911239115",
+      "i2": "ca-app-pub-5523798216623915/8255561633",
+      "na1": "ca-app-pub-5523798216623915/4316316622",
+      "na2": "ca-app-pub-5523798216623915/4285075775",
+      "aid": "ca-app-pub-5523798216623915~6012541672",
+      "ao": "ca-app-pub-5523798216623915/5277210354",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ]
+}
