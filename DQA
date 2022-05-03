@@ -1,5 +1,5 @@
 {
-  "destinyqualityapps.analogclock.analogclocklivewallpaper": [
+  "destinyqualityapps.analogclock.analogclocklivewallpaper.test": [
     {
       "exit_popup": "4",
       "tx": "pub-66581-android-5824",
@@ -17,7 +17,7 @@
       "extra2": "1"
     }
   ],
-  "destinyqualityapps.analogclock.analogclocklivewallpaper.lv": [
+  "destinyqualityapps.analogclock.analogclocklivewallpaper": [
     {
       "exit_popup": "100",
       "tx": "pub-66581-android-5824",
