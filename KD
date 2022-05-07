@@ -1,0 +1,20 @@
+{
+  "kartdeveloper.analogclocklivewallpaper.analogclock": [
+    {
+      "exit_popup": "4",
+      "tx": "pub-66581-android-5824",
+      "b1": "/6499/example/banner",
+      "b2": "/6499/example/banner",
+      "i1": "/6499/example/interstitial",
+      "i2": "/6499/example/interstitial",
+      "na1": "/6499/example/native",
+      "na2": "/6499/example/native",
+      "aid": "ca-app-pub-3940256099942544~3347511713",
+      "ao": "/6499/example/app-open",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ]
+}
