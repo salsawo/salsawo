@@ -44,12 +44,12 @@
     }
 
   ],
-  "com.tiempostudioapps.alwaysondisplay.amoledclock.Activitys": [
+  "com.tiempostudioapps.alwaysondisplay": [
 
     {
 
       "exit_popup": "0",
-      "tx": "pub-66287-android-8085",
+      "tx": "pub-66643-android-5584",
       "b1": "ca-app-pub-7575908437678224/4021440211",
       "b2": "ca-app-pub-7575908437678224/1012133492",
       "i1": "ca-app-pub-7575908437678224/6072888482",
@@ -71,7 +71,7 @@
     {
 
       "exit_popup": "0",
-      "tx": "pub-66288-android-8342",
+      "tx": "pub-66642-android-5474",
       "b1": "ca-app-pub-7575908437678224/6975192027",
       "b2": "ca-app-pub-7575908437678224/4349028684",
       "i1": "ca-app-pub-7575908437678224/1722865343",
