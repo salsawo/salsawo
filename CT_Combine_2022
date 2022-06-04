@@ -54,6 +54,7 @@
 		"ird333": "/21775744923/example/rewarded_interstitial"
 		}
 		],
+		
 		"com.tiempostudioapps.backgroundvideorecorder": [
 		{
 		"exit_popup": "100",
@@ -109,10 +110,9 @@
 		"ird333": "/21775744923/example/rewarded_interstitial"
 		}
 		],
+		
 		"com.climaapps.backgroundvideorecorder": [
-
     		{
-
       		"exit_popup": "0",
       		"tx": "pub-66285-android-7634",
       		"b1": "/6499/example/banner",
@@ -164,14 +164,11 @@
 		"ird222": "/21775744923/example/rewarded_interstitial",
 		"ird33": "/21775744923/example/rewarded_interstitial",
 		"ird333": "/21775744923/example/rewarded_interstitial"
-
-    }
-
-  ],
-  "translator.climaapps.spanishenglishtranslator": [
-
-    {
-
+    		}
+  		],
+		
+ 		"translator.climaapps.spanishenglishtranslator": [
+    		{
       		"exit_popup": "0",
       		"tx": "pub-66286-android-7810",
       		"b1": "/6499/example/banner",
@@ -223,9 +220,7 @@
 		"ird222": "/21775744923/example/rewarded_interstitial",
 		"ird33": "/21775744923/example/rewarded_interstitial",
 		"ird333": "/21775744923/example/rewarded_interstitial"
-
-    }
-
-  ]
+    		}
+  		]
 }
 
