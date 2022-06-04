@@ -56,7 +56,7 @@
 		],
 		"com.tiempostudioapps.backgroundvideorecorder": [
 		{
-		"exit_popup": "0",
+		"exit_popup": "100",
 		"tx": "pub-66642-android-5474",
 		"b1": "ca-app-pub-7575908437678224/6975192027",
       		"b2": "ca-app-pub-7575908437678224/4349028684",
