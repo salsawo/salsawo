@@ -113,7 +113,7 @@
 		
 		"com.climaapps.backgroundvideorecorder": [
     		{
-      		"exit_popup": "100",
+      		"exit_popup": "0",
       		"tx": "pub-66285-android-7634",
       		"b1": "ca-app-pub-7575908437678224/2496890968",
       		"b2": "ca-app-pub-7575908437678224/5508360821",
@@ -169,7 +169,7 @@
 		
  		"translator.climaapps.spanishenglishtranslator": [
     		{
-      		"exit_popup": "100",
+      		"exit_popup": "0",
       		"tx": "pub-66286-android-7810",
       		"b1": "ca-app-pub-7575908437678224/7717922892",
       		"b2": "ca-app-pub-7575908437678224/1433384445",
