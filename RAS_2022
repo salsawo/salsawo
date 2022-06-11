@@ -1,7 +1,7 @@
 {
   "com.relojappstudio.analogclocklivewallpaper": [
     {
-		"exit_popup": "100",
+		"exit_popup": "0",
 		"tx": "pub-66289-android-3551",
 		"b1": "ca-app-pub-5523798216623915/9539105178",
 		"b2": "ca-app-pub-5523798216623915/7630346880",
@@ -56,7 +56,7 @@
   ],
   "com.relojappstudio.silentcameravideorecorder": [
     {
-		"exit_popup": "100",
+		"exit_popup": "0",
 		"tx": "pub-66296-android-9609",
 		"b1": "ca-app-pub-5523798216623915/9024153758",
 		"b2": "ca-app-pub-5523798216623915/5084908748",
