@@ -1,7 +1,7 @@
 {
 "destinyqualityapps.analogclock.analogclocklivewallpaper": [
 		{
-		"exit_popup": "100",
+		"exit_popup": "0",
 		"tx": "pub-67184-android-0570",
       		"b1": "ca-app-pub-5523798216623915/4507888316",
     		"b2": "ca-app-pub-5523798216623915/3194806649",
